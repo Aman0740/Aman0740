@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aman Wagh<br> I'm a Junior Full Stack Developer<br>I like learn new thing's<br>📫 You can join me on ⬇️</p>
+<p align="left">My name is Aman Wagh<br> I'm a Junior Full Stack Developer<br>💬 Ask me about<br>I like learn new thing's<br>📫 You can join me on ⬇️</p>
 
 ###
 
@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
-
 ###
 
 ###
