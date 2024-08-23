@@ -2,15 +2,21 @@
 
 ###
 
-<p align="left">My name is Aman Wagh<br> I'm a Junior Full Stack Developer<br>I like learn new thing's<br>You can join me on ⬇️</p>
+<p align="left">My name is Aman Wagh<br> I'm a Junior Full Stack Developer<br>I like learn new thing's<br>📫 You can join me on ⬇️</p>
 
 ###
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+###
 </div>
 
 ###
@@ -28,7 +34,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ I code with</h2>
 
 ###
 
