@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aman Wagh<br> I'm a Junior Full Stack Developer 🖥️<br>💬 Ask me about your Query and Dout's<br>I like learn new thing's 📚<br>📫 You can join me on ⬇️</p>
+<p align="left"> I'm Aman Wagh<br>  A Junior Full Stack Developer 🖥️<br>💬 Feel free to ask me any questions or doubts.<br>I enjoy learning new things 📚<br>📫 You can connect with me below ⬇️</p>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Dedicated and efficient full stack developer with 2 years experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies.</h2>
+<h2 align="left">Dedicated and efficient Full Stack Developer with 2 years of experience in application layers, presentation layers, and databases. Certified in both Front-End and Back-End technologies.</h2>
 
 ###
 
