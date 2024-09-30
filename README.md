@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I'm Aman Wagh<br>  A Junior Full Stack Developer 🖥️<br>💬 Feel free to ask me any questions or doubts.<br>I enjoy learning new things 📚<br>📫 You can connect with me below ⬇️</p>
+<p align="left"> I'm Aman Wagh<br>  A Junior Full Stack Developer 🖥️<br>💬 Feel free to ask me any questions or doubts.<br> I enjoy learning new things 📚<br>📫 You can connect with me below ⬇️</p>
 
 ###
 
