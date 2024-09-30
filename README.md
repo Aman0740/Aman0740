@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I'm Aman Wagh<br>  A Junior Full Stack Developer 🖥️<br>💬 Feel free to ask me any questions or doubts.<br> I enjoy learning new things 📚<br>📫 You can connect with me below ⬇️</p>
+<p align="left"> I'm Aman Wagh<br>  A Junior Full Stack Developer 🖥️<br>Feel free to ask me any questions or doubts.💬<br> I enjoy learning new things 📚<br> You can connect with me below.📫 ⬇️</p>
 
 ###
 
@@ -81,6 +81,7 @@
 </div>
 
 ###
+<h3 align="left">🔥   My Contribution Graph :</h3>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman0740&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
