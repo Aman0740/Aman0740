@@ -1,8 +1,10 @@
 # 💫 About Me:
 I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br>I enjoy learning new things 📚<br>You can connect with me below.📫 ⬇️
+<br/><br/><br/>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aman0740&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=Aman0740&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/><br/><br/>
 
 # 💻 Language and Tools:
 <div align="left">
@@ -45,14 +47,14 @@ I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 # 📊 GitHub Stats:
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Aman0740&theme=dark&hide_border=false)
-</div>
+</div><br/><br/><br/>
 
 
 ###
