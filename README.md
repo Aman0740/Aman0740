@@ -1,96 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br>I enjoy learning new things 📚<br>You can connect with me below.📫 ⬇️
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aman0740&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/><br/>
 
-<p align="left"> I'm Aman Wagh<br> I'm a Full Stack Developer 🖥️  and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br> I enjoy learning new things 📚<br> You can connect with me below.📫 ⬇️</p>
-
-###
-
-###
-
-<div align="left">
-  <a href="mailto:5218amanwagh@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-
-<a href="https://www.instagram.com/your-profile" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-</a>
-
-<a href="https://wa.me/+918780982731" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-</a>
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)<br/><br/>
+# 📊 GitHub Stats:
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Aman0740&theme=dark&hide_border=false)
 </div>
 
-###
-
-<h2 align="left">Dedicated and efficient Full Stack Developer with 2 years of experience in application layers, presentation layers, and databases. Certified in both Front-End and Back-End technologies.</h2>
-
-###
-
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">🛠️ I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-
-###
-</div>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman0740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Aman0740&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 <h3 align="left">🔥   My Contribution Graph :</h3>
@@ -100,7 +23,7 @@
 
 ###
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aman0740&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
