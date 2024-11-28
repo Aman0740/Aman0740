@@ -57,13 +57,11 @@ I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<b
 </div><br/><br/><br/>
 
 
-###
-<h3 align="left">🔥   My Contribution Graph :</h3>
+# 🔥   My Contribution Graph :
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman0740&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
 
 
