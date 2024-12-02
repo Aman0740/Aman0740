@@ -51,7 +51,7 @@ I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<b
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![](https://github-readme-stats.vercel.app/api?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0740&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Aman0740&theme=dark&hide_border=false)
 </div><br/><br/><br/>
