@@ -10,7 +10,7 @@ I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<b
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
 </div>
-<br/><br/><br/>
+<br/><br/>
 
 # 💻 Language and Tools:
 <div align="left">
