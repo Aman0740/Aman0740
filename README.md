@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br>I enjoy learning new things 📚<br>You can connect with me below.📫 ⬇️
 <br>
-<div align="center">
+<div>
   <a href="https://wa.me/918780982731" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/>
   </a>
@@ -11,6 +11,7 @@ I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<b
   </a>
 </div>
 <br/><br/><br/>
+
 # 💻 Language and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
