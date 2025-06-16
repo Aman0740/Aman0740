@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Aman Wagh<br>I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br>I enjoy learning new things 📚<br>You can connect with me below.📫 ⬇️
+# Hi, I'm Aman Wagh 👋
+I'm a Full Stack Developer 🖥️ and Junior DELPHI Devloper<br>Feel free to ask me any questions or doubts.💬<br>I enjoy learning new things 📚<br>You can connect with me below.📫 ⬇️
 <br>
 <div>
   <a href="https://wa.me/918780982731" target="_blank">
